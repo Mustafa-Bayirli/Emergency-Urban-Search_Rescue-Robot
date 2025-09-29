@@ -1,0 +1,2 @@
+float32 temperature_celcius
+float32 temperature_fahrenheit
