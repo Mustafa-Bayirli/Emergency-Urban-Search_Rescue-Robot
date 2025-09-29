@@ -41,16 +41,6 @@ This project implements a fully functional search and rescue robot capable of:
 
 ---
 
-## 📁 Project Structure
-
-- ├── client/ # React frontend web application
-- ├── ros_workspace/ # ROS2 packages and robot control code
-- ├── ros_server/ # Node.js bridge between frontend and ROS2
-- ├── OpenCV/ # Computer vision and video processing
-- └── templates/ # HTML templates
-
----
-
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
